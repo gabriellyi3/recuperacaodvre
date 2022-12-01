@@ -1,22 +1,32 @@
+<!DOCTYPE html>
+     <html  lang="pt-br">
+          <head>
+             <meta cherset="UTF-8">
+             <title> o livro mais lindo </title>
+          </head>
+      <body>        
+            <h1> resumo do livro o mulato  </h1>
+   
 
 
+ <p>A obra começa a ser narrada no interior do Maranhão, onde José Pedro da Silva era fazendeiro e comerciante português.</p>
 
-body {
-	background: #CCCCCC
-}
+ <p>Com Domingas, uma de suas escravas, ele teve um filho bastardo: Raimundo. José casou-se com Quitéria Inocência de Freitas Santiago e desconfiada da relação que tinha com sua escrava, a esposa pede para açoitar a mulher e ainda, queimar suas genitais.</p>
 
-p {
-	text-align: center;
-}
+ <p>Desesperado, José leva a criança para a casa de seu irmão Manuel.Quando ele retorna à fazenda, encontra sua esposa na cama com o Padre Diogo.</p>
 
-#missao {
-	font-size: 20px
-}
+ <P>Num momento de fúria, ele mata sua esposa e faz um pacto com o padre para que ninguém fique sabendo do ocorrido.</p>
 
+ <p>Desolado, José passa a viver com seu irmão, que tinha uma casa na cidade de São Luís. Pouco depois, ele adoece. Quando decide retornar a sua fazenda, ele é morto a mando do Padre Diogo.</p>
 
-#banner {
-	width: 100%;
-}
+ <P>Diante de tudo isso, Raimundo, ainda criança, vai para Lisboa, em Portugal, se afastando de sua mãe. Ali passou anos de sua vida e se formou em Direito.</p>
 
-em strong {
-	color: #FF0000
+ <p>Mais tarde, resolveu retornar ao Brasil e vai morar no Rio de Janeiro. Decidido a encontrar seu tio Manuel Pescado, Raimundo viaja ao Maranhão.</p>
+
+ <p>A ideia inicial era saber sobre sua infância e origem. Além disso, seu pai deixou a herança para ele que estava aos cuidados de seu tio.</p>
+
+ <p>Assim, quando encontra Manuel, Raimundo fala que quer visitar fazenda onde morava quando era criança. Ali, ele desvenda alguns fatos desconhecidos, por exemplo, quem era sua mãe e que fora filho bastardo de José. Durante a estadia na casa de seu dia.</p>
+  
+            </body>
+  </html>
+  
